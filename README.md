@@ -20,7 +20,7 @@ Spotify is a leading platform for music and podcast streaming. This project aims
 ## Additional Resources
 
 Due to the structure of this repo and the upload limit for certain files on GitHub, some other files are stored in our shared drive, inlcuding dataset we used during the process and some helper code files. Feel free to request access to our shared drives to check out.
-[https://drive.google.com/drive/folders/0AOnlxgAvrj23Uk9PVA](https://drive.google.com/drive/folders/0AOyskU3MbcYlUk9PVA)] - main drive
+[[https://drive.google.com/drive/folders/0AOnlxgAvrj23Uk9PVA](https://drive.google.com/drive/folders/0AOyskU3MbcYlUk9PVA)] - shared drive
 
 
 
@@ -34,7 +34,7 @@ The Shiny app provides an interactive platform for exploring and analyzing podca
   ```
 
 The Shiny app is also deployed to an online platform and can be accessed here:
-[https://connect.posit.cloud/szhang655/content/0193176a-818a-32e5-37d9-ca920e9e3bf6](https://0193adbc-95a6-97f5-a1d1-83338735bb2e.share.connect.posit.cloud/)]
+[[https://connect.posit.cloud/szhang655/content/0193176a-818a-32e5-37d9-ca920e9e3bf6](https://0193adbc-95a6-97f5-a1d1-83338735bb2e.share.connect.posit.cloud/)]
 The source code for the online version is [[https://github.com/szhang655/FlightSchedulePredictionShiny.git](https://github.com/szhang655/Podcast_Explorer_Shiny/tree/main)].
 
 
